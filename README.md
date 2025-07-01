@@ -56,15 +56,8 @@ Feature importance analysis
 
 Pipeline creation
 
-🚀 How to Run
-bash
-Kopyala
-Düzenle
 # Clone the repository
 git clone https://github.com/yourusername/diabetes-feature-engineering.git
-
-# Navigate into the project directory
-cd diabetes-feature-engineering
 
 # Open the Jupyter Notebook
 jupyter notebook diabet-feature-engineering.ipynb
